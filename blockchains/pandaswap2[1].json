@@ -1,0 +1,11 @@
+﻿{ 
+"name": "Panda Swap",
+    "website": "https://PandaSwap.site",
+    "description": "The decentralized Meme coin grows into PANDA's game Metaverse. PANDA devotes to build a bridge between the the P2E game and players and make the game not only for fun but also can make money! ",
+    "explorer": "https://bscscan.com/token/0x3C82a76556282FecBCdFdefBC0760Dee9D230D5a",
+    "type": "BEP20",
+    "symbol": "PANDA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3C82a76556282FecBCdFdefBC0760Dee9D230D5a"
+}
